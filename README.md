@@ -14,7 +14,7 @@ This simple calculator is a web-based application built with HTML, CSS, and Java
 
 ## How to Use
 To use the Simple Calculator, simply open the `index.html` file in your web browser. You can perform calculations by clicking the buttons on the calculator's interface or by using your keyboard.
-or you can check my [calculator here](https://github.com/Mindslayer001/Simple-Calculator)
+or you can check my [calculator here](https://mindslayer001.github.io/Simple-Calculator/)
 
 ## Contributing
 I welcome contributions and improvements to this project. If you'd like to contribute, please follow these steps:
